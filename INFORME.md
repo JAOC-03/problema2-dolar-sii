@@ -15,17 +15,11 @@ Para cada mes se calcularon:
 
 ## Error absoluto
 
-\[
-E_a = |x_{real} - x_{aprox}|
-\]
+- Error absoluto:  Ea = | valor verdadero − valor aproximado |  (en pesos). 
 
 ## Error relativo
 
-\[
-E_r =
-\frac{E_a}{x_{real}}
-\times100
-\]
+- Error relativo (porcentual):  Er = ( Ea / valor verdadero ) × 100. 
 
 El mayor error relativo fue observado en:
 
