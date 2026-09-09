@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-Jeremy Orellana
+Jeremy Orellana Carrasco
 
 ## Descripción
 
