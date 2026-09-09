@@ -20,27 +20,27 @@ El trabajo considera:
 ## Estructura del repositorio
 
 problema2-dolar-sii/
-│
-├── README.md
-├── INFORME.md
-├── requirements.txt
-├── data/
-│   └── dolar_observado_sii_2022_2025.csv
-│
-├── src/
-│   ├── cargar_datos.py
-│   ├── errores.py
-│   ├── anualidad.py
-│   └── punto_flotante.py
-│
-└── graficos/
-    ├── grafico1_serie_temporal.png
-    ├── grafico2_variacion.png
-    ├── grafico3_error_representacion.png
-    ├── grafico4_rentabilidad.png
-    ├── grafico5_deriva.png
-    ├── error_representacion.csv
-    └── resultados_error.csv    
+README.md
+INFORME.md
+requirements.txt
+ 
+data/
+- dolar_observado_sii_2022_2025.csv
+ 
+src/
+- cargar_datos.py
+- errores.py
+- anualidad.py
+- punto_flotante.py
+ 
+graficos/
+- grafico1_serie_temporal.png
+- grafico2_variacion.png
+- grafico3_error_representacion.png
+- grafico4_rentabilidad.png
+- grafico5_deriva.png
+- error_representacion.csv
+- resultados_error.csv    
 
 ## Requisitos
 
