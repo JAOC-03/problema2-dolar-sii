@@ -36,33 +36,23 @@ Aunque el error individual es pequeño, este puede propagarse durante operacione
 
 Se simuló una operación de compra y venta utilizando un capital inicial de:
 
-\[
-1.000.000\ CLP
-\]
+1.000.000 CLP
 
 La cantidad de dólares comprada se calculó mediante:
 
-\[
 USD=\frac{Monto}{Precio_{compra}}
-\]
 
 Luego se obtuvo el monto recuperado:
 
-\[
 Pesos_{finales}=USD\times Precio_{venta}
-\]
 
 Finalmente:
 
-\[
 Ganancia = Pesos_{finales} - Monto
-\]
 
 La ganancia obtenida fue:
 
-\[
 170731.71 \pm 1159.95
-\]
 
 con un error porcentual de:
 
