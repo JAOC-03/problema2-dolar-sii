@@ -50,9 +50,9 @@ Instalar las dependencias:
 ## Ejecución
 
 Los programas deben ejecutarse en el siguiente orden:
-python src/errores.py
-python src/anualidad.py
-python src/punto_flotante.py
+1. src/errores.py
+2. src/anualidad.py
+3. src/punto_flotante.py
 
 ## Archivos generados
 
