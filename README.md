@@ -20,9 +20,9 @@ El trabajo considera:
 ## Estructura del repositorio
 
 problema2-dolar-sii/
-README.md
-INFORME.md
-requirements.txt
+- README.md
+- INFORME.md
+- requirements.txt
  
 data/
 - dolar_observado_sii_2022_2025.csv
